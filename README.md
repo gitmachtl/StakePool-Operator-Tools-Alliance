@@ -14,6 +14,7 @@ In order of joining the Alliance
 | **AHL**<br>**AHL** | [AHLNET StakePool](https://ahlnet.nu/) | :black_medium_small_square: [CN Tools](https://cardano-community.github.io/guild-operators/#/Scripts/cntools) |
 | **BCSH**<br>**BCSH0**<br>**BCSH1**<br>**BCSH2** | [BlueCheeseStakeHouse](https://bluecheesestakehouse.com/) | :black_medium_small_square: [JorManager](https://bitbucket.org/muamw10/jormanager/)<br>:black_medium_small_square: [cncli](https://github.com/AndrewWestberg/cncli) |
 | **BUFFY** | [crypto2099.io](https://crypto2099.io) | :black_medium_small_square: [topologyBlender](https://github.com/crypto2099/topologyBlender)<br>:black_medium_small_square: [Cardano On-Chain Voting](https://vote.crypto2099.io)<br>:black_medium_small_square: [Epoch-Nuance](https://epoch-api.crypto2099.io:2096/epoch) |
+| **POOLS**<br>**TOOLS** | [ADApools.org](https://adapools.org/) | :black_medium_small_square: [ADApools.org](https://adapools.org) |
 
 
 &nbsp;<br>
