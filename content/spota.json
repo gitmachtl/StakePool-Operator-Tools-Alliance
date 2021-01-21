@@ -2,7 +2,7 @@
     "adapools": {
         "about": {
             "name": "StakePool Operator Tools Alliance",
-            "description_short": "SPOTA is for all Individuals that are contributing to the Cardano-Ecosystem with Tools, Guides, etc. for running and maintaining a Cardano-StakePool.",
+            "description_short": "SPOTA is for all Individuals that are contributing to the Cardano-Ecosystem with Tools, etc. for running and maintaining a Cardano-StakePool.",
             "description_long": "StakePool Operator Tools Alliance (SPOTA) brings together the Individuals in the Cardano-Ecosystem which providing Tools for running and maintaining a StakePool on the Cardano Blockchain",
             "website": "https://github.com/gitmachtl/StakePool-Operator-Tools-Alliance",
             "url_png_icon_64x64": "https://github.com/gitmachtl/StakePool-Operator-Tools-Alliance/raw/main/content/stakepool_operator_tools_alliance_icon.png",
