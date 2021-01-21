@@ -11,7 +11,8 @@ In order of joining the Alliance
 | Ticker(s) | Name | Tool(s) |
 | :---  | :--- | :--- |
 | **ATADA**<br>**ATAD2** | [ATADA StakePool Austria](https://stakepool.at) | [StakePool Operator Scripts](https://github.com/gitmachtl/scripts) |
-| **AHL** | [AHLNET StakePool](https://ahlnet.nu/) | [CN Tools](https://cardano-community.github.io/guild-operators/#/Scripts/cntools) |
+| **AHL**<br>**AHL** | [AHLNET StakePool](https://ahlnet.nu/) | [CN Tools](https://cardano-community.github.io/guild-operators/#/Scripts/cntools) |
+| **BCSH**<br>**BCSH0**<br>**BCSH1**<br>**BCSH2** | [BlueCheeseStakeHouse](https://bluecheesestakehouse.com/) | [JorManager](https://bitbucket.org/muamw10/jormanager/) |
 
 &nbsp;<br>
 
