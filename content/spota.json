@@ -1,1 +1,49 @@
-
+{
+    "adapools": {
+        "about": {
+            "name": "StakePool Operator Tools Alliance",
+            "description_short": "SPOTA is for all Individuals that are contributing to the Cardano-Ecosystem with Tools, Guides, etc. for running and maintaining a Cardano-StakePool.",
+            "description_long": "StakePool Operator Tools Alliance (SPOTA) brings together the Individuals in the Cardano-Ecosystem which providing Tools for running and maintaining a StakePool on the Cardano Blockchain",
+            "website": "https://github.com/gitmachtl/StakePool-Operator-Tools-Alliance",
+            "url_png_icon_64x64": "https://github.com/gitmachtl/StakePool-Operator-Tools-Alliance/raw/main/content/stakepool_operator_tools_alliance_icon.png",
+            "url_png_logo": "https://github.com/gitmachtl/StakePool-Operator-Tools-Alliance/raw/main/content/stakepool_operator_tools_alliance_small.png",
+            "social": {
+                "twitter_handle": "",
+                "telegram_handle": "",
+                "facebook_handle": "",
+                "youtube_handle": "",
+                "twitch_handle": "",
+                "discord_handle": "",
+                "github_handle": ""
+            },
+            "types": {
+                "charity": false,
+                "business": true,
+                "beneficial": true
+            }
+        },
+        "members": {
+            "0": {
+                "pool_id": "00000036d515e12e18cd3c88c74f09a67984c2c279a5296aa96efe89",
+                "member_since": "2021-01-21",
+                "name": "ATADA StakePool Austria"
+            },
+            "1": {
+                "pool_id": "2ba96bc27be2bdde3ec11b9f696cf21fad39e49097be9b0193e6b572",
+                "member_since": "2020-01-21",
+                "name": "ATADA-2 StakePool Austria"
+            },
+            "2": {
+                "pool_id": "0001a003afb844ce6d9409fc49e049db654a78dc77f1151cb6cd548f",
+                "member_since": "2020-01-21",
+                "name": "AHLNET StakePool"
+            },
+            "3": {
+                "pool_id": "0001a007008ad930089e1be2de42ef058ac18ce761e8dd2651740b7a",
+                "member_since": "2020-01-21",
+                "name": "AHLNET-2 StakePool"
+            }
+        
+        }
+    }
+}
