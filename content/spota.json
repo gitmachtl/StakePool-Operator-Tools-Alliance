@@ -78,7 +78,12 @@
                 "member_since": "2021-01-21",
                 "name": "TOOLS StakePool"
             }
-        
+                        },
+            "11": {
+                "pool_id": "de7f214056fa551217d6ed21203bb09e7f479b34e8f4740bcf87f6f9",
+                "member_since": "2021-02-17",
+                "name": "Huth S0lo Stake Pool"
+            }
         }
     }
 }
