@@ -102,6 +102,11 @@
                 "pool_id": "da50099e7aa1d926e1888990b1c404caf554dd6f68a1cb0322999d1d",
                 "member_since": "2021-06-03",
                 "name": "CNS2 StakePool"
+            },
+            "16": {
+                "pool_id": "77b0a93c26ac65be36e9a9f220f9a43cbc57d705fc5d8f1de5fdeea1",
+                "member_since": "2021-06-03",
+                "name": "STAT StakePool"
             }
             
         
