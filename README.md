@@ -16,7 +16,9 @@ In order of joining the Alliance
 | **BUFFY** | [crypto2099.io](https://crypto2099.io) | :black_medium_small_square: [simpleLiveView](https://github.com/Crypto2099/simpleLiveView)<br>:black_medium_small_square: [topologyBlender](https://github.com/crypto2099/topologyBlender)<br>:black_medium_small_square: [Cardano On-Chain Voting](https://vote.crypto2099.io)<br>:black_medium_small_square: [Epoch-Nuance](https://epoch-api.crypto2099.io:2096/epoch) |
 | **POOLS**<br>**TOOLS** | [ADApools.org](https://adapools.org/) | :black_medium_small_square: [ADApools.org](https://adapools.org) |
 | **LOVE**<br>**PEGA**<br>**SKY** | [Cardano PoolTool](https://pooltool.io/) | :black_medium_small_square: [PoolTool.io](https://pooltool.io) |
-| **CSN1**<br>**CSN2** | [Cardanoscan](https://cardanoscan.io/) | :black_medium_small_square: [Cardanoscan.io](https://cardanoscan.io) |
+| **CSN1**<br>**CSN2** | [Cardanoscan - Cardano Blockchain Explorer](https://cardanoscan.io/) | :black_medium_small_square: [Cardanoscan.io](https://cardanoscan.io) |
+| **STAT** | [AdaStat - Cardano Blockchain Explorer](https://adastat.net/) | :black_medium_small_square: [AdaStat.net](https://adastat.net) |
+
 
 &nbsp;<br>
 
