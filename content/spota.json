@@ -107,6 +107,11 @@
                 "pool_id": "77b0a93c26ac65be36e9a9f220f9a43cbc57d705fc5d8f1de5fdeea1",
                 "member_since": "2021-06-03",
                 "name": "STAT StakePool"
+            },
+            "17": {
+                "pool_id": "adb8f11466290d1a8bef7c9665848cd66e45a7e74e5c25f586f0192e",
+                "member_since": "2021-06-03",
+                "name": "BOT StakePool"
             }
             
         
