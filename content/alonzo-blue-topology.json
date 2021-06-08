@@ -15,6 +15,7 @@
     { "operator": "NASEC2", "addr": "relay2-blue.nasec.co.uk", "port": 3000, "valency": 1 },
     { "operator": "BLOCK", "addr": "relay1.alonzo-blue.dev.kblocks.net", "port": 3001, "valency": 1},
     { "operator": "ADA", "addr": "relay1.ctn-alonzo.eu1-dc3.cardano24.net", "port": 3001, "valency": 1},
-    { "operator": "ADA", "addr": "relay2.ctn-alonzo.eu2-dc2.cardano24.net", "port": 3001, "valency": 1}
+    { "operator": "ADA", "addr": "relay2.ctn-alonzo.eu2-dc2.cardano24.net", "port": 3001, "valency": 1},
+    { "operator": "HOMR1", "addr": "95.217.220.132", "port": 6000, "valency": 1}
   ]
 }
