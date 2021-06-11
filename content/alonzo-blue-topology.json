@@ -18,6 +18,7 @@
     { "operator": "ADA", "addr": "relay2.ctn-alonzo.eu2-dc2.cardano24.net", "port": 3001, "valency": 1},
     { "operator": "HOMR1", "addr": "95.217.220.132", "port": 6000, "valency": 1},
     { "operator": "AHL", "addr": "relay-alonzo.ahlnet.nu", "port": 2104, "valency": 1},
-    { "operator": "POLY", "addr": "alonzo1.polypool.io", "port": 3503, "valency": 1}
+    { "operator": "POLY", "addr": "alonzo1.polypool.io", "port": 3503, "valency": 1},
+    { "operator": "CODER", "addr": "relays.cardano.dantup.com", "port": 30901, "valency": 1 }
   ]
 }
