@@ -1,0 +1,25 @@
+{
+  "Producers": [
+    { "operator": "IOG-Relays", "addr": "relays.alonzo-blue.dev.cardano.org", "port": 3001, "valency": 2 },
+    { "operator": "ATADA", "addr": "185.164.6.221", "port": 54328, "valency": 1 },
+    { "operator": "CLIO1", "addr": "185.161.193.105", "port": 6020, "valency": 1 },
+    { "operator": "NUTS", "addr": "relays.alfonzo.stakenuts.com", "port": 3001, "valency": 1 },
+    { "operator": "AZ01", "addr": "alonzo-relay.bluecheesestakehouse.com", "port": 8000, "valency": 1 },
+    { "operator": "STKHT", "addr": "54.37.204.63", "port": 7001, "valency": 1 },
+    { "operator": "NASEC", "addr": "relay1-blue.nasec.co.uk", "port": 3000, "valency": 1 },
+    { "operator": "FROG", "addr": "alonzo-blue.adafrog.io", "port": 3728, "valency": 1 },
+    { "operator": "BUFFY", "addr": "alfonzo.crypto2099.io", "port": 3001, "valency": 1 },
+    { "operator": "RDLRT", "addr": "178.238.224.187", "port": 6003, "valency": 1 },
+    { "operator": "CIRO", "addr": "relays-alonzo-blue.cryptojoe.online", "port": 30010, "valency": 1 },
+    { "operator": "VIPER", "addr": "alonzo-blue-relay1.viperstaking.com", "port": 4444, "valency": 1 },
+    { "operator": "NASEC2", "addr": "relay2-blue.nasec.co.uk", "port": 3000, "valency": 1 },
+    { "operator": "BLOCK", "addr": "relay1.alonzo-blue.dev.kblocks.net", "port": 3001, "valency": 1},
+    { "operator": "ADA", "addr": "relay1.ctn-alonzo.eu1-dc3.cardano24.net", "port": 3001, "valency": 1},
+    { "operator": "ADA", "addr": "relay2.ctn-alonzo.eu2-dc2.cardano24.net", "port": 3001, "valency": 1},
+    { "operator": "HOMR1", "addr": "95.217.220.132", "port": 6000, "valency": 1},
+    { "operator": "AHL", "addr": "relay-alonzo.ahlnet.nu", "port": 2104, "valency": 1},
+    { "operator": "POLY", "addr": "alonzo1.polypool.io", "port": 3503, "valency": 1},
+    { "operator": "CODER", "addr": "relays.cardano.dantup.com", "port": 30901, "valency": 1 },
+    { "operator": "LOVE", "addr": "44.232.69.92", "port": 6000, "valency": 1 }
+  ]
+}
