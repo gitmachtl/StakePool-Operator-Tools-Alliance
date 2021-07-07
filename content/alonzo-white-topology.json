@@ -1,6 +1,6 @@
 {
   "Producers": [
-    { "operator": "IOG-Relays", "addr": "relays.alonzo-blue.dev.cardano.org", "port": 3001, "valency": 2 },
+    { "operator": "IOG-Relays", "addr": "relays.alonzo-white.dev.cardano.org", "port": 3001, "valency": 2 },
     { "operator": "ATADA", "addr": "185.164.6.221", "port": 54328, "valency": 1 },
     { "operator": "CLIO1", "addr": "185.161.193.105", "port": 6020, "valency": 1 },
     { "operator": "NUTS", "addr": "relays.alfonzo.stakenuts.com", "port": 3001, "valency": 1 },
