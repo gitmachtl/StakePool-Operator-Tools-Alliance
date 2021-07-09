@@ -21,6 +21,7 @@
     { "operator": "POLY", "addr": "alonzo1.polypool.io", "port": 3503, "valency": 1},
     { "operator": "CODER", "addr": "relays.cardano.dantup.com", "port": 30901, "valency": 1 },
     { "operator": "LOVE", "addr": "44.232.69.92", "port": 6001, "valency": 1 },
-    { "operator": "XSP", "addr": "alonzo-relay.xstakepool.com", "port": 3001, "valency": 1 }
+    { "operator": "XSP", "addr": "alonzo-relay.xstakepool.com", "port": 3001, "valency": 1 },
+    { "operator": "BNTY1", "addr": "aw1.cryptobounty.org", "port": 9195, "valency": 1 }
   ]
 }
