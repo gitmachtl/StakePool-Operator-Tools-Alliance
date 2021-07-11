@@ -24,6 +24,7 @@
     { "operator": "XSP", "addr": "alonzo-relay.xstakepool.com", "port": 3001, "valency": 1 },
     { "operator": "BNTY1", "addr": "aw1.cryptobounty.org", "port": 9195, "valency": 1 },
     { "operator": "ONYX", "addr": "alonzo-relays.onyxstakepool.com", "port": 3001, "valency": 1 },
-    { "operator": "YOADA", "addr": "217.182.129.124", "port": 6000, "valency": 1 }
+    { "operator": "YOADA", "addr": "217.182.129.124", "port": 6000, "valency": 1 },
+    { "operator": "CROWD", "addr": "77.68.113.190", "port": 6000, "valency": 1 }
   ]
 }
