@@ -26,6 +26,8 @@
     { "operator": "ONYX", "addr": "alonzo-relays.onyxstakepool.com", "port": 3001, "valency": 1 },
     { "operator": "YOADA", "addr": "217.182.129.124", "port": 6000, "valency": 1 },
     { "operator": "CROWD", "addr": "77.68.113.190", "port": 6000, "valency": 1 },
-    { "operator": "BLOOM", "addr": "147.182.179.223", "port": 3001, "valency": 1 }
+    { "operator": "BLOOM", "addr": "147.182.179.223", "port": 3001, "valency": 1 },
+    { "operator": "CLEAR", "addr": "34.200.149.33", "port": 6000, "valency": 1 },
+    { "operator": "ESP", "addr": "alonzo-relay.everestada.com", "port": 3001, "valency": 1 }
   ]
 }
