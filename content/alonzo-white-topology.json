@@ -1,6 +1,8 @@
 {
   "Producers": [
+    
     { "operator": "YOUR-BLOCKPRODUCER", "addr": "127.0.0.1", "port": 0, "valency": 1 },
+    
     { "operator": "IOG-Relays", "addr": "relays.alonzo-white.dev.cardano.org", "port": 3001, "valency": 2 },
     { "operator": "ATADA", "addr": "185.164.6.221", "port": 54328, "valency": 1 },
     { "operator": "CLIO1", "addr": "185.161.193.105", "port": 6020, "valency": 1 },
@@ -30,5 +32,6 @@
     { "operator": "BLOOM", "addr": "147.182.179.223", "port": 3001, "valency": 1 },
     { "operator": "CLEAR", "addr": "34.200.149.33", "port": 6000, "valency": 1 },
     { "operator": "ESP", "addr": "alonzo-relay.everestada.com", "port": 3001, "valency": 1 }
+    
   ]
 }
