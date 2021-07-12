@@ -6,7 +6,7 @@
     { "operator": "IOG-Relays", "addr": "relays.alonzo-white.dev.cardano.org", "port": 3001, "valency": 2 },
     { "operator": "ATADA", "addr": "185.164.6.221", "port": 54328, "valency": 1 },
     { "operator": "CLIO1", "addr": "185.161.193.105", "port": 6020, "valency": 1 },
-    { "operator": "NUTS", "addr": "relays.alfonzo.stakenuts.com", "port": 3001, "valency": 1 },
+    { "operator": "NUTS", "addr": "159.65.204.191", "port": 3001, "valency": 1 },
     { "operator": "AZ01", "addr": "alonzo-relay.bluecheesestakehouse.com", "port": 8000, "valency": 1 },
     { "operator": "STKHT", "addr": "54.37.204.63", "port": 7001, "valency": 1 },
     { "operator": "NASEC", "addr": "relay1-blue.nasec.co.uk", "port": 3000, "valency": 1 },
