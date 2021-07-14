@@ -34,7 +34,8 @@
     { "operator": "ESP", "addr": "alonzo-relay.everestada.com", "port": 3001, "valency": 1 },
     { "operator": "ADAFR", "addr": "82.65.244.85", "port": 6000, "valency": 1 },
     { "operator": "ANQA", "addr": "65.21.242.208", "port": 3001, "valency": 1 },
-    { "operator": "MASTR", "addr": "168.119.228.84", "port": 3001, "valency": 1 }
+    { "operator": "MASTR", "addr": "168.119.228.84", "port": 3001, "valency": 1 },
+    { "operator": "TUNDR", "addr": "51.79.141.170", "port": 7900, "valency": 1 }
         
   ]
 }
