@@ -35,7 +35,7 @@
     { "operator": "ADAFR", "addr": "82.65.244.85", "port": 6000, "valency": 1 },
     { "operator": "ANQA", "addr": "65.21.242.208", "port": 3001, "valency": 1 },
     { "operator": "MASTR", "addr": "168.119.228.84", "port": 3001, "valency": 1 },
-    { "operator": "TUNDR", "addr": "51.79.141.170", "port": 8900, "valency": 1 },
+    { "operator": "TUNDR", "addr": "relays-alonzo.poolunder.com", "port": 8900, "valency": 1 },
     { "operator": "CHEAP", "addr": "alonzo-tn.cheapstaking.com", "port": 3333, "valency": 1 },
     { "operator": "GHISX", "addr": "65.21.151.16", "port": 3001, "valency": 1 },
     { "operator": "ASTOR", "addr": "relay02.astorpool.net", "port": 3001, "valency": 1 },
