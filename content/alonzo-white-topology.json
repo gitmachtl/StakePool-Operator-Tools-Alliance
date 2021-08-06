@@ -39,7 +39,8 @@
     { "operator": "CHEAP", "addr": "alonzo-tn.cheapstaking.com", "port": 3333, "valency": 1 },
     { "operator": "GHISX", "addr": "65.21.151.16", "port": 3001, "valency": 1 },
     { "operator": "ASTOR", "addr": "relay02.astorpool.net", "port": 3001, "valency": 1 },
-    { "operator": "SKY", "addr": "172.104.26.100", "port": 3001, "valency": 1 }
+    { "operator": "SKY", "addr": "172.104.26.100", "port": 3001, "valency": 1 },
+    { "operator": "CAKE", "addr": "alonzo.stakeforcake.com", "port": 6000, "valency": 1 }
         
   ]
 }
