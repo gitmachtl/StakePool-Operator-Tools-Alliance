@@ -36,7 +36,7 @@
     { "operator": "SKY", "addr": "172.104.26.100", "port": 3001, "valency": 1 },
     { "operator": "CAKE", "addr": "alonzo.stakeforcake.com", "port": 6000, "valency": 1 },
     { "operator": "LAVAN", "addr": "lavan.app", "port": 3001, "valency": 1 },
-    { "operator": "EURO", "addr": "49.12.86.157", "port": 3007, "valency": 1 }
-    
+    { "operator": "EURO", "addr": "49.12.86.157", "port": 3007, "valency": 1 },
+    { "operator": "PIADA", "addr": "adasrn24x7.ddns.net", "port": 6001, "valency": 1 }    
   ]
 }
