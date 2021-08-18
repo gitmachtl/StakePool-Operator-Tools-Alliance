@@ -37,6 +37,10 @@
     { "operator": "CAKE", "addr": "alonzo.stakeforcake.com", "port": 6000, "valency": 1 },
     { "operator": "LAVAN", "addr": "lavan.app", "port": 3001, "valency": 1 },
     { "operator": "EURO", "addr": "49.12.86.157", "port": 3007, "valency": 1 },
-    { "operator": "PIADA", "addr": "adasrn24x7.ddns.net", "port": 6001, "valency": 1 }    
+    { "operator": "PIADA", "addr": "adasrn24x7.ddns.net", "port": 6001, "valency": 1 },
+    { "operator": "FAST", "addr": "alonzo-purple.faststakepool.com", "port": 3001, "valency": 1 },
+    { "operator": "LUCID", "addr": "lucid-rl-0.rizome.io", "port": 7001, "valency": 1 },
+    { "operator": "APEX", "addr": "195.191.47.219", "port": 6000, "valency": 1 }
+
   ]
 }
