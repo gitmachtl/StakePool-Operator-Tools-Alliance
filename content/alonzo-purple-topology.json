@@ -40,7 +40,8 @@
     { "operator": "PIADA", "addr": "adasrn24x7.ddns.net", "port": 6001, "valency": 1 },
     { "operator": "FAST", "addr": "alonzo-purple.faststakepool.com", "port": 3001, "valency": 1 },
     { "operator": "LUCID", "addr": "lucid-rl-0.rizome.io", "port": 7001, "valency": 1 },
-    { "operator": "APEX", "addr": "195.191.47.219", "port": 6000, "valency": 1 }
+    { "operator": "APEX", "addr": "195.191.47.219", "port": 6000, "valency": 1 },
+    { "operator": "SECUR", "addr": "purple.cardano-dev.securestaking.io", "port": 3000, "valency": 1 }
 
   ]
 }
