@@ -35,7 +35,8 @@
     { "operator": "LUCID", "addr": "lucid-rl-0.rizome.io", "port": 7001, "valency": 1 },
     { "operator": "APEX", "addr": "195.191.47.219", "port": 6000, "valency": 1 },
     { "operator": "SECUR", "addr": "purple.cardano-dev.securestaking.io", "port": 3000, "valency": 1 },
-    { "operator": "GRADA", "addr": "node1.cardano.gratis", "port": 9001, "valency": 1 }
+    { "operator": "GRADA", "addr": "node1.cardano.gratis", "port": 9001, "valency": 1 },
+    { "operator": "WAAUS", "addr": "40.112.183.56", "port": 6000, "valency": 1 }
 
   ]
 }
