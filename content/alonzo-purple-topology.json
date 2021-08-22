@@ -36,7 +36,9 @@
     { "operator": "APEX", "addr": "195.191.47.219", "port": 6000, "valency": 1 },
     { "operator": "SECUR", "addr": "purple.cardano-dev.securestaking.io", "port": 3000, "valency": 1 },
     { "operator": "GRADA", "addr": "node1.cardano.gratis", "port": 9001, "valency": 1 },
-    { "operator": "WAAUS", "addr": "40.112.183.56", "port": 6000, "valency": 1 }
+    { "operator": "WAAUS", "addr": "40.112.183.56", "port": 6000, "valency": 1 },
+    { "operator": "RADAR", "addr": "sully.crabdance.com", "port": 6005, "valency": 1 },
+    { "operator": "KAWAN", "addr": "194.233.72.101", "port": 6002, "valency": 1 }
 
   ]
 }
