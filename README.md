@@ -18,6 +18,7 @@ In order of joining the Alliance
 | **LOVE**<br>**PEGA**<br>**SKY** | [Cardano PoolTool](https://pooltool.io/) | :black_medium_small_square: [PoolTool.io](https://pooltool.io) |
 | **CSN1**<br>**CSN2** | [Cardanoscan - Cardano Blockchain Explorer](https://cardanoscan.io/) | :black_medium_small_square: [Cardanoscan.io](https://cardanoscan.io) |
 | **STAT**<br>**BOT** | [AdaStat - Cardano Blockchain Explorer](https://adastat.net/) | :black_medium_small_square: [AdaStat.net](https://adastat.net)<br>:black_medium_small_square: [Telegram Bot](https://t.me/AdaStatBot) |
+| **BZH** | [ArbrazLinux](https://github.com/ArbrazLinux) | :black_medium_small_square: [Cardano stake pool operator Engine](https://github.com/ArbrazLinux/CspoE) |
 
 
 &nbsp;<br>
