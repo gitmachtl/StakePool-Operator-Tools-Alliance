@@ -112,6 +112,11 @@
                 "pool_id": "adb8f11466290d1a8bef7c9665848cd66e45a7e74e5c25f586f0192e",
                 "member_since": "2021-06-03",
                 "name": "BOT StakePool"
+            },
+            "18": {
+                "pool_id": "9b9ad921921db31ca91cd6dfdf11f5efee8c1ab94671a6b4a8edc748",
+                "member_since": "2026-09-18",
+                "name": "BZH StakePool"
             }
             
         
